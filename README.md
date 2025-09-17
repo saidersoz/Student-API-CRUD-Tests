@@ -12,3 +12,4 @@ Bu repo, Repsy için hazırlanan Öğrenci API CRUD testleri içerir.
 1. Repo’yu klonlamak isterseniz;
 ```bash
 git clone <repo-link># Student-API-CRUD-Tests
+# Student-API-CRUD-Tests
