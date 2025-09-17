@@ -3,7 +3,7 @@
 Bu repo, Repsy için hazırlanan Öğrenci API CRUD testleri içerir.
 
 ## Gereksinimler
-- Java 17+
+- Java 17+ (Önerilen Java 21)
 - Maven
 - RestAssured
 - JUnit 5
